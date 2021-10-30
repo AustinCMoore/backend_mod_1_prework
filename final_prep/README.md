@@ -3,13 +3,13 @@ Congrats on making it to the Mod 0 Final Prep! Complete the final exercises belo
 
 ### Final Technical Prep
 
-You've learned a ton about some of the core foundations of Javascript! Show us how far you've come by completing the following exercises! You will be using your work from these exercises in your first day of Mod 1! 
+You've learned a ton about some of the core foundations of Javascript! Show us how far you've come by completing the following exercises! You will be using your work from these exercises in your first day of Mod 1!
 
 - [ ] Complete the [Mod Zero Hero Challenge](./mod_zero_hero.rb)
 - [ ] Complete the [Annotation Challenge](./annotations.rb)
 
 ### Refactor Previous Work
-You've learned A LOT over the last few weeks as it relates to technical content - chances are, you probably have some code from your previous exercises that is either sloppy, incorrect, poorly named, etc. Before starting Mod 1, we want you to `refactor` your code - which is the process of adjusting or improving your code for readability and accuracy. 
+You've learned A LOT over the last few weeks as it relates to technical content - chances are, you probably have some code from your previous exercises that is either sloppy, incorrect, poorly named, etc. Before starting Mod 1, we want you to `refactor` your code - which is the process of adjusting or improving your code for readability and accuracy.
 
 Some things to consider as you refactor include...
 - Are my variable names easy to understand/convey the data type they are assigned to?
@@ -32,24 +32,27 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+- <img width="1157" alt="Screen Shot 2021-10-29 at 4 13 03 PM" src="https://user-images.githubusercontent.com/92219945/139498567-957e79de-f964-415f-b6b4-ac83306dbac2.png">
+- <img width="1157" alt="Screen Shot 2021-10-29 at 4 14 11 PM" src="https://user-images.githubusercontent.com/92219945/139498568-4b457b20-e035-4883-8c17-5d7602ee71d2.png">
+- <img width="1157" alt="Screen Shot 2021-10-29 at 4 14 38 PM" src="https://user-images.githubusercontent.com/92219945/139498569-9e3a1a05-d502-46ec-bbac-80f00a3bdb88.png">
 
 ### Mentorship Prep
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
 - [ ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [ ] Add link to your gist here: 
+  - [ ] Add link to your gist here: https://gist.github.com/AustinCMoore/d433895c39ef128212eeca8882a4c5a2
 
 ### Lesson Prep
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
 - [ ] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
-  - [ ] Add a link to your gist here:
+  - [ ] Add a link to your gist here: https://gist.github.com/AustinCMoore/baff751f0fd0c9452990c7b911cde97d
 
 ### Group Work Prep
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 - [ ] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [ ] Add a link to your gist here: 
+  - [ ] Add a link to your gist here: https://gist.github.com/AustinCMoore/edd365bfed1cb61c7d3c919d01e555ae
+
+### Gear Up Assignment
+No section is specified for this assignment but the instructions say to include a link in the final_prep README. Here is my gist: https://gist.github.com/AustinCMoore/2119fc631c2d6feb14aa3884ba564aee
 
 ## All Done? How to Submit your M1 Prework
 When you have completed *all* the activities described above, follow the steps below to submit your technical prework.
